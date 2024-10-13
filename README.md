@@ -1,4 +1,4 @@
-#**WeatherScope: A Comprehensive Weather Monitoring & Analysis System.**
+# **WeatherScope: A Comprehensive Weather Monitoring & Analysis System.**
 RTOS is an important component of IoT systems because it enables the real-time processing and control of data from IoT devices. 
 By providing a high degree of predictability and reliability, RTOS ensures that IoT devices can respond quickly and accurately to changing conditions and events.
 
